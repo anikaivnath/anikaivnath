@@ -13,9 +13,6 @@ I'm a **Web Developer** and **Software Engineer** from Bangladesh with a strong 
 - **Design**: Figma,
 
 
-### 📈 **GitHub Stats:**
-![Anika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true)
-
 ### 💬 **Let's Connect:**
 
 - **Email**: anikaivnath8@gmail.com

@@ -9,21 +9,17 @@ I'm a passionate **Web Developer** and **Software Engineer** from Bangladesh wit
 
 ### 🔧 **Technologies & Tools:**
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Vue.js, Node.js
-- **Tools**: Git, Webpack, Babel, Docker
-- **Design**: Figma, Adobe XD
+- **Frameworks**: React,  Node.js
+- **Tools**: Git, Babel, Docker
+- **Design**: Figma,
 
-### 🌟 **Featured Projects:**
-- [Project Name](link-to-project): Brief description of the project.
-- [Another Project](link-to-project): Brief description of the project.
 
 ### 📈 **GitHub Stats:**
 ![Anika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true)
 
 ### 💬 **Let's Connect:**
-- **LinkedIn**: [LinkedIn Profile](link-to-linkedin)
-- **Twitter**: [Twitter Profile](link-to-twitter)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+- **Email**: anikaivnath8@gmail.com
 
 Feel free to check out my repositories and connect with me!
 

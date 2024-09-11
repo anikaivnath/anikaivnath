@@ -1,11 +1,10 @@
-## Hi there, I'm Anika! 👋
+## Hi there, I'm Anika Ivnath! 👋
 
-I'm a passionate **Web Developer** and **Software Engineer** from Bangladesh with a strong focus on **front-end technologies** and **user experience**. I enjoy turning complex problems into simple, intuitive solutions. 
+I'm a **Web Developer** and **Software Engineer** from Bangladesh with a strong focus on **front-end technologies** and **user experience**. I enjoy turning complex problems into simple, intuitive solutions. 
 
 ### 🚀 **Currently working on:**
-- Developing innovative web applications using modern frameworks like **React** and **Vue.js**.
-- Exploring **JavaScript** and **TypeScript** to build scalable and maintainable codebases.
-- Enhancing my skills in **UI/UX design** and **responsive design**.
+- Developing innovative web applications using modern frameworks like **React**.
+- Exploring **JavaScript** to build scalable and maintainable codebases.
 
 ### 🔧 **Technologies & Tools:**
 - **Languages**: JavaScript, TypeScript, HTML, CSS

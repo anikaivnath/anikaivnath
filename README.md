@@ -1,4 +1,32 @@
-<h2 align="left"></h2>
+## Hi there, I'm Anika! 👋
+
+I'm a passionate **Web Developer** and **Software Engineer** from Bangladesh with a strong focus on **front-end technologies** and **user experience**. I enjoy turning complex problems into simple, intuitive solutions. 
+
+### 🚀 **Currently working on:**
+- Developing innovative web applications using modern frameworks like **React** and **Vue.js**.
+- Exploring **JavaScript** and **TypeScript** to build scalable and maintainable codebases.
+- Enhancing my skills in **UI/UX design** and **responsive design**.
+
+### 🔧 **Technologies & Tools:**
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: React, Vue.js, Node.js
+- **Tools**: Git, Webpack, Babel, Docker
+- **Design**: Figma, Adobe XD
+
+### 🌟 **Featured Projects:**
+- [Project Name](link-to-project): Brief description of the project.
+- [Another Project](link-to-project): Brief description of the project.
+
+### 📈 **GitHub Stats:**
+![Anika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true)
+
+### 💬 **Let's Connect:**
+- **LinkedIn**: [LinkedIn Profile](link-to-linkedin)
+- **Twitter**: [Twitter Profile](link-to-twitter)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+Feel free to check out my repositories and connect with me!
+
 
 <hr>
 

@@ -1,75 +1,109 @@
-## 👋 Hi there, I'm Anika Ivnath!
+<h1 align="center">👋 Hi, I'm Anika Ivnath</h1>
+<p align="center">
+  <strong>🇧🇩 Bangladeshi | 👩‍💻 Frontend Developer | 🧠 Software Engineer | 💼 HR Professional</strong>  
+</p>
 
-I'm a **Front-End Web Developer** from **Bangladesh**, passionate about building user-friendly and visually engaging web applications. I love transforming complex problems into clean, intuitive solutions through elegant code and seamless user experience.
-
----
-
-### 🚀 Currently Working On
-
-- Crafting modern web apps using **ReactJS** and **TypeScript**
-- Exploring the depths of **JavaScript** to write scalable and efficient front-end architectures
-- Improving UI/UX workflows and responsiveness across devices
+<p align="center">
+  🚀 I'm passionate about blending creativity with code to build intuitive web experiences.  
+  I love learning, solving problems, and making technology more human-centered.
+</p>
 
 ---
 
-### 💡 Skills
-
-#### 💻 Programming & Markup Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-
-#### ⚛️ Frameworks & Libraries
-- React.js
-- Node.js (Basics)
-- Tailwind CSS
-- Bootstrap
-- Express.js (Basics)
-
-#### 🎨 UI/UX & Design
-- Figma (Wireframing & Prototyping)
-- Responsive Web Design
-- Pixel-perfect implementation
-
-#### 🛠 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Vercel / Netlify
-- Chrome DevTools
-
-#### 🌐 Other Technical Skills
-- RESTful APIs
-- JSON & AJAX
-- DOM Manipulation
-- Local Storage / Session Storage
-- Web Accessibility (a11y) basics
-
----
-
-### 📫 Let's Connect
-
-- 📧 **Email**: [anikaivnath8@gmail.com](mailto:anikaivnath8@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/anikaivnath](https://www.linkedin.com)  
-
-
-- 📮 **Gmail**: [anikaivnath8@gmail.com](mailto:anikaivnath8@gmail.com)
-
----
+## 💼 About Me
 
 <div align="center">
   <img src="https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600nw-2205630025.jpg" height="200" alt="Programmer silhouette" />
 </div>
 
+- 🎓 CSE Graduate with a passion for front-end development and human-centered design  
+- 🌐 Currently learning the **MERN stack** and building real-world projects  
+- 🧩 Loves breaking complex problems into simple, clean UI solutions  
+- 🤝 Also contributing as an **HR professional**, enhancing teams with empathy and efficiency  
+- 🕛 Enjoys coding after midnight 🌙  
+- 🎶 Loves listening to **Rabindra Sangeet**  
+- ✍️ Writes poems sometimes for self-expression
+
 ---
+
+## 🚧 Current Focus
+
+- ⚛️ Building a **Pokémon Explorer App** with React & Tailwind  
+- 📊 Designing a **Professional UI Dashboard** with modern front-end tools  
+- 🔥 Deep-diving into the **MERN Stack** from **Interactive Carea (Batch-3)**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+## 📂 My Toolbox
+
+### 💻 Frontend Skills
+- Semantic HTML5, CSS3
+- JavaScript (ES6+), TypeScript
+- ReactJS, Tailwind CSS, Bootstrap
+- Responsive UI/UX, DOM manipulation, SPA development
+
+### 🧠 Soft & HR Skills
+- Team Coordination, Talent Acquisition
+- People Management, Communication
+- Time Management, Conflict Resolution
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Graduated in Computer Science & Engineering  
+- 🧪 Completed **MERN Stack Course** from **Interactive Carea (Batch-3)**  
+- 🥇 Recognized for leadership in HR communities and tech learning circles
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikaivnath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anikaivnath&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikaivnath&theme=tokyonight&hide_border=false" height="170" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaivnath&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="150" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anikaivnath&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:anikaivnath8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anikaivnath.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">"Code with heart, connect with soul."</h3>
 
 ---
 

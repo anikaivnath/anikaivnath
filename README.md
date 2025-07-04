@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Anika Ivnath</h1>
 <p align="center">
-  <strong>🇧🇩 Bangladeshi | 👩‍💻 Frontend Developer | 🧠 Software Engineer </strong>  
+  <strong> Bangladeshi | 👩‍💻 Frontend Developer | 🧠 Software Engineer </strong>  
 </p>
 
 <p align="center">
@@ -81,13 +81,6 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:anikaivnath8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://anikaivnath.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -99,6 +92,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>

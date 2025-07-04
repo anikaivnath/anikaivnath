@@ -80,7 +80,7 @@
 
 
 <p align="left">
-  <a href="mailto:anikaivnath8@gmail.com" target="_blank">
+  <a href="mailto:anikaivnath8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">

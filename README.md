@@ -61,20 +61,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikaivnath&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikaivnath&theme=tokyonight&hide_border=false" height="170" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaivnath&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="150" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anikaivnath&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
 
 ## 📫 Connect With Me
 

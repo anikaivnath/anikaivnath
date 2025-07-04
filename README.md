@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Anika Ivnath</h1>
 <p align="center">
-  <strong>🇧🇩 Bangladeshi | 👩‍💻 Frontend Developer | 🧠 Software Engineer | 💼 HR Professional</strong>  
+  <strong> Bangladeshi | 👩‍💻 Frontend Developer | 🧠 Software Engineer | </strong>  
 </p>
 
 <p align="center">
@@ -19,17 +19,12 @@
 - 🎓 CSE Graduate with a passion for front-end development and human-centered design  
 - 🌐 Currently learning the **MERN stack** and building real-world projects  
 - 🧩 Loves breaking complex problems into simple, clean UI solutions  
-- 🤝 Also contributing as an **HR professional**, enhancing teams with empathy and efficiency  
 - 🕛 Enjoys coding after midnight 🌙  
-- 🎶 Loves listening to **Rabindra Sangeet**  
-- ✍️ Writes poems sometimes for self-expression
 
 ---
 
 ## 🚧 Current Focus
-
-- ⚛️ Building a **Pokémon Explorer App** with React & Tailwind  
-- 📊 Designing a **Professional UI Dashboard** with modern front-end tools  
+- 📊 Designing a Professional projects with modern front-end tools  
 - 🔥 Deep-diving into the **MERN Stack** from **Interactive Carea (Batch-3)**
 
 ---
@@ -57,20 +52,14 @@
 - ReactJS, Tailwind CSS, Bootstrap
 - Responsive UI/UX, DOM manipulation, SPA development
 
-### 🧠 Soft & HR Skills
+### 🧠 Soft  Skills
 - Team Coordination, Talent Acquisition
 - People Management, Communication
 - Time Management, Conflict Resolution
 
 ---
 
-## 🏆 Achievements
 
-- 🎓 Graduated in Computer Science & Engineering  
-- 🧪 Completed **MERN Stack Course** from **Interactive Carea (Batch-3)**  
-- 🥇 Recognized for leadership in HR communities and tech learning circles
-
----
 
 ## 📊 GitHub Stats
 
@@ -107,6 +96,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>

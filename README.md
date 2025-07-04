@@ -12,12 +12,39 @@ I'm a **Front-End Web Developer** from **Bangladesh**, passionate about building
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💡 Skills
 
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks & Libraries**: React, Node.js  
-- **Tools**: Git, Babel, Docker  
-- **Design**: Figma
+#### 💻 Programming & Markup Languages
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+
+#### ⚛️ Frameworks & Libraries
+- React.js
+- Node.js (Basics)
+- Tailwind CSS
+- Bootstrap
+- Express.js (Basics)
+
+#### 🎨 UI/UX & Design
+- Figma (Wireframing & Prototyping)
+- Responsive Web Design
+- Pixel-perfect implementation
+
+#### 🛠 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Vercel / Netlify
+- Chrome DevTools
+
+#### 🌐 Other Technical Skills
+- RESTful APIs
+- JSON & AJAX
+- DOM Manipulation
+- Local Storage / Session Storage
+- Web Accessibility (a11y) basics
 
 ---
 
